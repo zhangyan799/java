@@ -3,5 +3,6 @@ public class Study {
 		System.out.pritnln("Hello,world");
 		System.out.println("你好，世界");
 		System.out.println("河南省郑州市");
+		System.out.println("二七区");
 	}
 }
