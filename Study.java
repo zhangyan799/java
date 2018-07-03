@@ -1,9 +1,8 @@
 public class Study {
 	public static void main(String[] args) {
-		System.out.pritnln("Hello,world");
-		System.out.println("你好，世界");
-		System.out.println("河南省郑州市");
-		System.out.println("二七区");
-		System.out.println("二七纪念塔");
+		for (int i = 0;i < 3;i++ ) {
+			System.out.println("小鸿成绩不及格");
+		}
+		
 	}
 }
